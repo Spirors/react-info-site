@@ -1,5 +1,4 @@
 import React from 'react';
-import '../style.css'
 import ReactIconSmall from '../images/react-icon-small.png'
 
 export default function Navbar() {
